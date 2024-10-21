@@ -5,7 +5,7 @@
 [![codecov](https://codecov.io/gh/myorg/rhino-inside-jupyter/branch/master/graph/badge.svg)](https://codecov.io/gh/myorg/rhino-inside-jupyter)
 
 
-A Jupyter Widget for rendering Rhinoo33dm models in Jupyter
+A Jupyter Widget for rendering Rhino3dm models in Jupyter
 
 ## Installation
 
