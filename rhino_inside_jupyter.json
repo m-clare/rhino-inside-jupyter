@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "rhino_inside_jupyter/extension": true
+  }
+}

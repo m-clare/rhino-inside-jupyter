@@ -1,0 +1,2 @@
+[run]
+omit = rhino_inside_jupyter/tests/*

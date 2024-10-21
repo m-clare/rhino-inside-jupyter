@@ -1,0 +1,5 @@
+{
+  "packageManager": "python",
+  "packageName": "rhino_inside_jupyter",
+  "uninstallInstructions": "Use your Python package manager (pip, conda, etc.) to uninstall the package rhino_inside_jupyter"
+}
